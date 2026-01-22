@@ -9,7 +9,7 @@ export const educationData = [
     {
         id: 2,
         institution: 'Georgetown University',
-        course: 'Master of Data Science & Analytics',
+        course: 'Master in Data Science & Analytics',
         startYear: '2024',
         endYear: '2026'
     }
