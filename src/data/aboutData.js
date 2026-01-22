@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name's Li Wen. I’m a data analyst with a background in social work and a strong interest in using data to understand people, behavior, and real-world systems. I create impact-driven analytics that helps teams make better decisions while staying grounded in context, ethics, and human needs. I translate complex insights into clear, actionable stories that stakeholders can understand, trust, and apply.",
+    description2: "My focus is on building practical, impact-driven analytics and machine learning solutions that turn complex data into clear decisions. Through my data science training, I’ve strengthened my ability to work across the full pipeline through SQL querying, data cleaning, exploratory analysis, visualization, and predictive modeling, while maintaining strong attention to detail and analytical rigor. I also develop ML applications that connect technical performance with real user needs, combining thoughtful evaluation with clear communication to support teams in making confident, data-informed choices.",
     image: 2
 }

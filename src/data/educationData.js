@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Natoinal Taiwan University',
+        institution: 'National Taiwan University',
         course: 'BSW in Social Work',
         startYear: '2018',
         endYear: '2023'
