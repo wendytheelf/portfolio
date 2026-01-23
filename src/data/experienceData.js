@@ -1,23 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'Taiwan Mobile Co., Ltd.',
+        jobtitle: 'Data Analyst Intern',
+        startYear: 'Apr. 2023',
+        endYear: 'Sep. 2023'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        company: 'Data Hub',
+        jobtitle: 'Data Scientist',
+        startYear: '2023',
+        endYear: '2025'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
+        company: 'Vosyn',
+        jobtitle: 'Data Analyst Intern, Operations',
+        startYear: 'Jun. 2025',
+        endYear: 'Aug. 2025'
     },
 ]
