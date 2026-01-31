@@ -1,5 +1,5 @@
 export const socialsData = {
-    github: 'https://github.com/',
+    github: 'https://github.com/wendytheelf',
     facebook: 'https://www.facebook.com/',
     linkedIn: 'https://www.linkedin.com/in/liwenhu1999/',
     instagram: 'https://www.instagram.com/',

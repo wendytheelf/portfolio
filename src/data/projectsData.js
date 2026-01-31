@@ -11,29 +11,29 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Reddit as a Travel Guide: Trends, Sentiment, and Preferences',
+        projectDesc: 'A big data analysis of Reddit travel discussions that transforms millions of unstructured posts into actionable insights on traveler preferences, destination trends, and engagement behavior.',
+        tags: ['Spark', 'AWS', 'Python'],
+        code: 'https://github.com/gu-dsan6000/fall-2025-project-team19',
+        demo: 'https://liwenhu.georgetown.domains/big_data_project/',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Emergency Department Patient Disposition Prediction',
+        projectDesc: 'A healthcare analytics project that uses statistical learning to identify clinical drivers of emergency department disposition outcomes and support data-informed operational decisions.',
+        tags: ['Healthcare Analytics', 'Statistical Learning & Interpretability', 'Predictive Modeling'],
+        code: 'https://github.com/dsan-5300/project-39',
+        demo: 'https://drive.google.com/drive/folders/13cBF62PH12-tC4Me-UglTIAMjkr5cGXh?usp=drive_link',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Predict Urban Parking Violation Trends using Machine Learning',
+        projectDesc: 'An urban data analysis project that explores spatial and behavioral patterns in parking violations to support hotspot identification and more effective enforcement planning.',
+        tags: ['EDA', 'Geospatial Analysis', 'Urban Analytics'],
+        code: 'https://github.com/dsan-5000/project-wendytheelf',
+        demo: 'https://liwenhu.georgetown.domains/wendy_hu_website/',
         image: three
     },
     {
